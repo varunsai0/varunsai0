@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Sai Varun Vaka
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunsai0" alt="varunsai0" /> </p>
+
+- 🌱 I’m currently pursuing **Masters in Computer Science** from **Arizona State University**
+
+- 💬 We can discuss about technologies
+
+- 📫 How to reach me: **varunsai0@gmail.com**
 <!--
 **varunsai0/varunsai0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
