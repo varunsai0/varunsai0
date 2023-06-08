@@ -7,6 +7,11 @@
 - 💬 We can discuss about technologies
 
 - 📫 How to reach me: **varunsai0@gmail.com**
+
+<h3 align="left"> Connect with me:</h3> 
+<p align="left"> 
+ <a href="https://www.linkedin.com/in/sai-varun-vaka-b5101a165/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunsai0" height="30" width="40" /> </a> 
+</p>
 <!--
 **varunsai0/varunsai0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
